@@ -18,6 +18,7 @@ public class Kalin {
 				if(haf  == JavaCharArray[i]) {
 				System.out.println("KALIN");
 				 return;
+				 
 				}
 				
 				
